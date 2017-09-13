@@ -10,7 +10,9 @@ namespace Tarea1.Dominio.Tipo_de_Datos
     {
         String Jugador1 = " ";
         String Jugador2 = " ";
-        
+        String Jugador3 = " ";
+
+
 
     }
 }
